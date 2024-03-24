@@ -1,0 +1,1 @@
+Créer un système de communication client-serveur en utilisant Java RMI pour permettre aux clients d'envoyer des demandes au serveur, tout en permettant au serveur d'incrémenter un identifiant (ID) à chaque demande reçue.
